@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    color: #2d3436;
+}
+.fine-link{
+    padding-left: 15px;
+}
+.encourage{
+    background-color: #4943ff;
+    color:#ffff;
+}
+.quality i{
+    font-size: 70px;
+    color: #fff;
+    padding: 0.2em 0.4em;
+    border-radius: 50%;
+}
+.device-view i{
+    font-size: 70px;
+    color: #fff;
+    padding: 0.2em 0.4em;
+    border-radius: 50%;
+}
+footer{
+    background-color: #524aff;
+}
+ul{
+    display: inline-block;
+    float: right;
+}
